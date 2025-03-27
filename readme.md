@@ -23,8 +23,6 @@
 </ol>
 
 --> To run the code you have to create an input file in which you have to write the icd codes each in one line. and then pass the prompt in terminal:
-<<<<<<< HEAD
+
 node icd9to10.js your_input_file.txt <--
-=======
-node icd9to10.js your_input_file.txt <--
->>>>>>> c53f9cf9c22b2a136a0d1ce860c129cd50eadeb9
+
